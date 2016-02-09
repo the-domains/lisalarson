@@ -1,0 +1,28 @@
+name: LisaLarson
+favicon: null
+layout_spectrum: 0.6331808529794216
+typography_spectrum: 0.11859084502793849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9167167930863798
+  lightness: 0.9336525860708207
+  saturation: 0.6506590554490685
+  rhythmicContrast: 0.5882244550157338
+purpose: []
